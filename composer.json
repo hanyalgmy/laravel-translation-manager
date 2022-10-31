@@ -51,6 +51,6 @@
         "post-update-cmd": [
         ]
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 
 }
